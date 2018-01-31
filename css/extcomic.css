@@ -1,0 +1,56 @@
+
+		#hi{
+			background-image: url("../images/uni.jpg");
+			background-size: 100%;
+			background-repeat: no-repeat;
+			background-attachment: none;
+		    }
+		#one{
+		     width: 575px;
+                 height: 100px;
+                 padding: 15px;
+                 background-color: none;
+                 color:white;
+	           font-size:180%;
+                 background-color: black; 
+	          }
+		#first{
+			color:black;
+			font-size: 160%;
+
+		      }
+		#second{
+			  color:white;
+			  font-size: 130%;
+                   }
+		#third{
+			 list-style-type: none;
+                   margin: 0;
+                   padding:0;
+                   color: white;
+                   font-size: 200%;
+                   overflow: hidden;
+                   background-color: orange;
+                  }
+
+                  li{
+                        float: left;
+                  }
+                  
+
+                  .my a:link{
+            	       color: white;
+            	       text-decoration: none;
+                        }
+                  .my a:visited{
+                         color:white;
+                  }
+                  .my a:active{
+            	         color: white;
+                          }
+                  .my a:hover{
+                        background-color: #111111;
+                         }
+                  }
+                  
+	          
